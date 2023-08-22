@@ -27,9 +27,8 @@ To achieve our goal, we will follow these steps:
 
 The project repository is organized as follows:
 
-- `data/`: Contains the dataset files.
-- `notebooks/`: Jupyter notebooks detailing the different stages of the project.
-- `main.py`: The main script to run the project.
+- `diabetes_prediction_dataset.csv/`: Contains the dataset files.
+- `diabeties_prediction.ipynb/`: The main script to run the project.
 
 ## Dependencies
 
